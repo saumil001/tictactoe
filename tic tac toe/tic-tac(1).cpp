@@ -2,8 +2,6 @@
 
 using namespace std;
 
-
-
 int counter=1;
 int mat[9]{1,1,1,1,1,1,1,1,1};
 int matuse[9]{0,0,0,0,0,0,0,0,0};
